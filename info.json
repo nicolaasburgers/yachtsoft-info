@@ -1,0 +1,8 @@
+{
+  "alpha": true,
+  "beta": false,
+  "production": false,
+  "test-redirect": true,
+  "rhinocompute-url": "http://localhost:6500",
+  "logic-version": 1
+}
